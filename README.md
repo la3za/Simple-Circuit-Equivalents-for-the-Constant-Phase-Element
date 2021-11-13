@@ -29,7 +29,9 @@ where the impulse and step responses are temporal power laws. Here we show that 
 current impulse responses of the capacitive CPE is the same as that of a simple
 time-varying series RL-circuit where the inductor's value increases linearly with time.
 Similarly, the voltage response of the inductive CPE corresponds to that of a simple
-parallel RC circuit where the capacitor's value increases linearly with time. We use the
+parallel RC circuit where the capacitor's value increases linearly with time. 
+
+We use the
 Micro-Cap circuit simulation program, which can handle time-varying circuits, for
 independent verification. The simulation corresponds exactly to the expected response
 from the proposed equivalents within 0.1% error. The realization with time-varying
