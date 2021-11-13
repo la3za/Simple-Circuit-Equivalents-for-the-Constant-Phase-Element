@@ -4,7 +4,15 @@ Supplementary information to accompany the paper Sverre Holm, Thomas Holm, and Ã
 ["Simple circuit equivalents for the constant phase element."](https://doi.org/10.1371/journal.pone.0248786) 
 PloS one 16.3 (2021): e0248786. 
 
-Abstract
+The code is for a Microcap *.cir file that produces
+the following circuit diagram with time-varying inductances and sets up the simulation.
+
+![Image](Microcap-Schematics-zoom.png)
+
+The Micro-Cap software has been freely available since version 12.2.0.0, 4
+July 2019. See http://www.spectrum-soft.com/index.shtm.
+
+## Abstract
 
 The constant phase element (CPE) is a capacitive element with a
 frequency-independent negative phase between current and voltage which interpolates
@@ -27,9 +35,3 @@ independent verification. The simulation corresponds exactly to the expected res
 from the proposed equivalents within 0.1% error. The realization with time-varying
 components correlates with known time-varying properties in applications, and may
 lead to a better understanding of the link between CPE and applications.
-
-The code is for a Microcap *.cir file that produces
-this circuit diagram and sets up the simulation.
-
-The Micro-Cap software has been freely available since version 12.2.0.0, 4
-July 2019. See http://www.spectrum-soft.com/index.shtm.
