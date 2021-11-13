@@ -1,4 +1,4 @@
-# Simple-Circuit-Equivalents-for-the-Constant-Phase-Element
+# Simple Circuit Equivalents for the Constant Phase Element
 
 Supplementary information to accompany the paper Sverre Holm, Thomas Holm, and Ørjan Grøttem Martinsen. 
 ["Simple circuit equivalents for the constant phase element."](https://doi.org/10.1371/journal.pone.0248786) 
